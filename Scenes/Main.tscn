@@ -50,7 +50,7 @@ wait_time = 0.5
 [node name="ScoreTimer" type="Timer" parent="." unique_id=573043095]
 
 [node name="StartTimer" type="Timer" parent="." unique_id=1973670753]
-wait_time = 2.0
+wait_time = 5.0
 
 [node name="StartPosition" type="Marker2D" parent="." unique_id=946283244]
 position = Vector2(240, 450)
